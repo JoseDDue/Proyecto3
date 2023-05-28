@@ -1,0 +1,44 @@
+# PROYECTO 3
+
+## Variables
+### Cantidad1, Cantidad2, Resultado como Reales
+### rows, columns, sum, i, j, k, l, Matriz, Matriz2, Matriz3, Matriz4, Matriz5, Matriz6, ResultadoM, ResultadoM2 como Enteros
+
+### El proyecto empieza con las opciones posibles:
+### Suma, Resta, Multiplicaion, Division
+### Suma de todos los valores de matrices
+### Resta de todos los valores de matrices
+### Suma de matrices
+### Resta de matrices
+### Triangulo de numeros impares
+### Recatangulo de asteriscos
+
+### Al elejir cualquiera de las 4 primeras opciones se haran las operaciones matematicas entre 2 variables
+### con los signos + - * /
+### luego se muestra el resultado
+
+### La suma y resta de todos los valores de matriz empieza pidiendo el tamaño de la matriz
+### luego se sigue con la operacion entre todas las cantidades de la matriz con los signos + -
+### y se muestra el resultado
+
+### La suma y reste entre matrices empieza por pedir el tamaño de todas las matrices en general
+### luego pide los datos para llenar las matrices
+### y se hace la suma o resta entre cada variable igual de las 2 matrices
+### el resultado se envia a una nueva matriz 
+### por medio del ciclo para se recorre la nueva matriz para ir mostrando los resultados de las operaciones
+
+### el triangulo de numeros impares empieza pidiendo el tamaño del triangulo
+### con este numero se esta empezando un ciclo que recorre cada linea
+### y un ciclo que escribira cada numero de esa misma linea
+### se hace primero una suma de 2 en 2 a una variable que luego al esbribir una vez ese numero se restara de 2 en 2
+### hasta que el ultimo numero en escribir sea el 1
+
+### Rectangulo de asteriscos empieza pidiendo el numero de tamaño de este
+### empieza con un metodo el cual pasa por todas las lineas del tamaño del rectangulo
+### luego en el otro metodo estara conformado con un if o un si
+### que preguntara si una variable es igual al primer numero o al final
+### si eso se cumple entonces escribira un asterisco
+### de lo contrario se escribiran los espacios
+
+### por ultimo esta el metodo repetir que aparecera al final de una accion terminada
+### en el cual al precionar la S saldra del programa y si se preciona otra volvera a repetir
